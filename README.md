@@ -1,5 +1,5 @@
 # bad-apple
-STM32F407IGT6 90FPS刷bad apple  
+STM32F407ZGT6 90FPS刷bad apple  
 bad apple 90fps刷屏程序，未进行底层优化，只是用了一些小技巧，底层优化，可以速度更快  
 有问题可联系qq362276794  
 本程序只能在正点原子STM32F407探索板2.8寸屏上运行，其他屏需要自行修改程序和重新合成bin播放文件  
